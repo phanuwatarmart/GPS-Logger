@@ -45,7 +45,7 @@ RTC Module (rtc.py) — Provides timestamps for each GPS log entry.
 Logger Module (logger.py) — Stores GPS data and timestamps in CSV format.
 
 Config Module (config.py) — Stores configurable settings, including logging intervals and simulation parameters.
----
+
 
 ## Features
 
